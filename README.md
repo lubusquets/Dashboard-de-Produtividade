@@ -49,3 +49,7 @@ Formatação dos gráficos;
 Organização das informações em blocos;
 Ícones representando cada indicador;
 Layout limpo e responsivo.
+
+# :link: Sites utilizados
+
+- https://www.color-hex.com ; https://dribbble.com ; https://www.flaticon.com
