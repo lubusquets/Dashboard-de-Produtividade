@@ -8,11 +8,11 @@ Este projeto consiste no desenvolvimento de um dashboard interativo no Power BI 
 :mag: Filtros interaticos que permitem visualizar as informações por operador e mês. Todos os gráficos e indicadores são atualizados automaticamente conforme a seleção realizada.
 
 # :clipboard: Indicadores Analisados
-- Tempo médio
-- Produtividade
-- Qualidade
-- Total de atendimentos
-- Percentuais de desempenho
+1. Tempo médio
+2. Produtividade
+3. Qualidade
+4. Total de atendimentos
+5. Percentuais de desempenho
 
 # :hammer_and_wrench: Tecnologias Utilizadas 
 Power BI Desktop
@@ -29,13 +29,23 @@ Modelagem de Dados
 
 
 
-# 📈 Design
+# :bar_chart: Visualizações
 
 O relatório utiliza diversos recursos do Power BI, incluindo:
 
-Cartões (KPIs)
-Gráficos de barras
-Indicadores do tipo velocímetro
-Segmentação de dados (Slicers)
-Layout personalizado
-Ícones para identificação visual dos indicadores  
+- Cartões (KPIs)
+- Gráficos personalizados
+- Indicadores do tipo velocímetro
+- Segmentação de dados (Slicers)
+- Layout personalizado
+- Ícones para identificação visual dos indicadores
+
+# :art: Design
+
+Para tornar o dashboard mais intuitivo e agradável, foram aplicadas boas práticas de visualização de dados:
+
+Paleta de cores personalizada;
+Formatação dos gráficos;
+Organização das informações em blocos;
+Ícones representando cada indicador;
+Layout limpo e responsivo.
