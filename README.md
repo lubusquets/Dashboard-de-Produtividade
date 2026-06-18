@@ -21,7 +21,9 @@ Este projeto consiste no desenvolvimento de um dashboard interativo no Power BI 
 
 # :bar_chart: Dashboard
 
-
+![](https://github.com/lubusquets/Dashboard-de-Produtividade/blob/main/img/img1.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-Produtividade/blob/main/img/img2.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-Produtividade/blob/main/img/img3.jpeg?raw=true)
 
 :dart: Objetivos: Monitorar a performance dos operadores; comparar indicadores de produtividade e qualidade; facilitar a análise por período e por operador; construir um dashboard profissional utilizando boas práticas de design.
 
