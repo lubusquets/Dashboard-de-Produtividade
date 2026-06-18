@@ -3,10 +3,6 @@
 
 Este projeto consiste no desenvolvimento de um dashboard interativo no Power BI para análise da performance de operadores, permitindo acompanhar indicadores de produtividade, qualidade e tempo de atendimento de forma visual e intuitiva.
 
-:dart: Objetivos: Monitorar a performance dos operadores; comparar indicadores de produtividade e qualidade; facilitar a análise por período e por operador; construir um dashboard profissional utilizando boas práticas de design.
-
-:mag: Filtros interaticos que permitem visualizar as informações por operador e mês. Todos os gráficos e indicadores são atualizados automaticamente conforme a seleção realizada.
-
 # :clipboard: Indicadores Analisados
 1. Tempo médio
 2. Produtividade
@@ -15,10 +11,6 @@ Este projeto consiste no desenvolvimento de um dashboard interativo no Power BI 
 5. Percentuais de desempenho
 
 # :hammer_and_wrench: Tecnologias Utilizadas 
-Power BI Desktop
-Power Query
-DAX
-Modelagem de Dados
 
 | **Tecnologia** | **Aplicação** |
 |------------|-----------| 
@@ -27,9 +19,15 @@ Modelagem de Dados
 | :open_file_folder: Excel | Base de dados | 
 | :chart_with_upwards_trend: Data Visualization | Construção dos gráficos |
 
+# :bar_chart: Dashboard
 
 
-# :bar_chart: Visualizações
+
+:dart: Objetivos: Monitorar a performance dos operadores; comparar indicadores de produtividade e qualidade; facilitar a análise por período e por operador; construir um dashboard profissional utilizando boas práticas de design.
+
+:mag: Filtros interativos que permitem visualizar as informações por operador e mês. Todos os gráficos e indicadores são atualizados automaticamente conforme a seleção realizada.
+
+# :sparkles: Visualizações
 
 O relatório utiliza diversos recursos do Power BI, incluindo:
 
